@@ -1,3 +1,0 @@
-# git-github
-I'm on git
-This is for tutorials...
